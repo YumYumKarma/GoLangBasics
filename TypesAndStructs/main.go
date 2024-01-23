@@ -1,5 +1,6 @@
 package main
 
+<<<<<<< HEAD
 import (
 	"log"
 	"time"
@@ -21,3 +22,9 @@ func main() {
 
 	log.Println(user.FirstName,user.LastName,"Birth Date",user.BirthDate)
 }
+=======
+func main() {
+
+}
+
+>>>>>>> d5c58bd (Structs and Types)
